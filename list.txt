@@ -8,3 +8,4 @@ To tell you I'm sorry, for everything that I made
 But this one is more important
 Merge conflict
 I said merge conflict
+Merge conflict 2
